@@ -1,0 +1,5 @@
+services:
+    odiseo_sylius_ups.shipping_calculator.ups:
+        class: Odiseo\SyliusUpsPlugin\Calculator\UpsCalculator
+        tags:
+            - { name: sylius.shipping_calculator, calculator: ups, label: 'Ups', form_type: Odiseo\SyliusUpsPlugin\Form\Type\Calculator\ChannelBasedUpsConfigurationType }

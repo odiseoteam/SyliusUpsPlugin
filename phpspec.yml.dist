@@ -1,0 +1,4 @@
+suites:
+    main:
+        namespace: Odiseo\SyliusUpsPlugin
+        psr4_prefix: Odiseo\SyliusUpsPlugin
