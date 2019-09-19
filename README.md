@@ -3,7 +3,7 @@
         <img src="https://github.com/odiseoteam/SyliusUpsPlugin/blob/master/logo_odiseo.png" alt="Odiseo" width="300px" />
     </a>
     <br />
-    Odiseo Sylius Ups Plugin
+    Odiseo Sylius UPS Plugin [WIP]
     <br />
     <a href="https://packagist.org/packages/odiseoteam/sylius-ups-plugin" title="License" target="_blank">
         <img src="https://img.shields.io/packagist/l/odiseoteam/sylius-ups-plugin.svg" />
@@ -24,11 +24,20 @@
 
 ## Description
 
-This plugin add shipping UPS calculator to the Sylius administration interface.
-
-Now supporting Sylius 1.4+ and Symfony 4.
+This plugin add UPS shipping method to the Sylius project.
 
 <img src="https://github.com/odiseoteam/SyliusUpsPlugin/blob/master/screenshot_1.png" alt="Ups calculator">
+
+This is a WIP plugin, so we aprecciate your feedback and your colaboration. Thanks!
+
+#### Features
+
+- Add a UPS Shipping method calculator.
+
+#### Upcoming features
+
+- Add label printing for the shipments.
+- Add tracking system.
 
 ## Demo
 
